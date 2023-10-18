@@ -478,3 +478,9 @@ body {
   background: #CD201F;
   color: #000000;
 }
+.wrapper .linkedin:hover,
+.wrapper .linkedin:hover .tooltip,
+.wrapper .linkedin:hover .tooltip::before {
+  background: #333333;
+  color: #ffffff;
+}
